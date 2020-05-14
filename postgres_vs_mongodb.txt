@@ -1,0 +1,7 @@
+I am slightly familiar with SQL, so working with Postgres was not too difficult. 
+MongoDB is not a SQL type of database so it took me a little longer to get grasp of the concept, however
+to me SQL is a little easier because of the fact that it is more structured. With SQL, based on table
+definitions I know what kind of data is expected and I can also do joins to query data from multiple tables.
+In MongoDB, you can store data in freeform, which makes understanding the data a little bit more complex.
+On the contrary in MongoDB I can create a document without any structure. In my opinion, this gives the engineer
+more flexibility.
