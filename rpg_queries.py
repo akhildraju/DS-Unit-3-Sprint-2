@@ -64,6 +64,11 @@ class RpgQueries:
         result = self.cursor.execute(query).fetchall()
         return result[0][0]
 
+    def get_all_characters(self):
+        query = "select * from charactercreator_character"
+        result = self.cursor.execute(query).fetchall()
+        return result
+
 
 def main():
     queries = RpgQueries()
